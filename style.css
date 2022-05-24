@@ -1,0 +1,42 @@
+h1{
+        padding-bottom: 20px;
+        font-size: 40px;
+        font-style: italic;
+        text-align: center;
+        color: #ffbd1b;
+    }
+
+    #informe{
+        font-size: 15px;
+        font-style: italic;
+        text-align: center;
+        padding-top: 10px;
+        color: #ffbd1b
+    }
+
+    body {
+        background-color: #136207;
+    }
+
+    footer {
+        color: #ffbd1b;
+        text-align: center;
+        font-size: 18px;
+        padding-top: 60px;
+    }
+
+    textarea {
+         padding: 8%;
+         border-color: #EEBC1D;
+         border-width: thick;
+         display: inline-flex;
+         margin-left: 320px;
+    }
+
+    button {
+        margin-left: 320px;
+    }
+
+    #descripto {
+        margin-right: 320px;
+    }
